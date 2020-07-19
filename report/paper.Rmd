@@ -1,0 +1,7 @@
+---
+title: "Germany Paper"
+output: pdf_document
+---
+
+Example paper
+
